@@ -2,7 +2,7 @@ import numpy as np
 import cv2
 import matplotlib.pyplot as plt
 
-"""Functions taken and modified from blog.ekbana.com/skew-correction-using-corner-detectors-and-homography-fda345e42e65"""
+#Functions taken and modified from blog.ekbana.com/skew-correction-using-corner-detectors-and-homography-fda345e42e65
 
 
 def get_destination_points(corners):
